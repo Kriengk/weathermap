@@ -66,10 +66,7 @@
 			<artifactId>junit</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>  
-            		<groupId>com.huawei.paas.cse</groupId>
-            		<artifactId>foundation-auth</artifactId>
-        	</dependency>
+		
 	</dependencies>
 
 	<build>
