@@ -33,6 +33,10 @@
 
 	<dependencies>
 		<dependency>
+			<groupId>com.huawei.paas.cse</groupId> 
+			<artifactId>foundation-auth</artifactId> 
+		</dependency>
+		<dependency>
 			<groupId>org.apache.servicecomb</groupId>
 			<artifactId>solution-basic</artifactId>
 		</dependency>
